@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![FileShareGo-cli Screen Shot][product-screenshot]](https://github.com/ofman/fsg/img/screenshot.png)
+[![FileShareGo-cli Screen Shot][product-screenshot]](img/screenshot.png)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -242,7 +242,7 @@ Project Link: [https://github.com/ofman/fsg](https://github.com/ofman/fsg)
 [issues-url]: https://github.com/ofman/fsg/issues
 [license-shield]: https://img.shields.io/github/license/ofman/fsg.svg?style=for-the-badge
 [license-url]: https://github.com/ofman/fsg/blob/master/LICENSE
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: img/screenshot.png
 [go.dev]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
 [go-url]: https://go.dev/
 [ipfs.tech]: https://img.shields.io/badge/IPFS-Inter_Planetary_File_System-blue
