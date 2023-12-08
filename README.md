@@ -100,6 +100,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 ### Built With
 
 * [![Go][go.dev]][go-url]
+* [![IPFS][ipfs.tech]][ipfs-url]
 * [![Debian][debian.org]][debian-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -242,7 +243,9 @@ Project Link: [https://github.com/ofman/fsg](https://github.com/ofman/fsg)
 [license-shield]: https://img.shields.io/github/license/ofman/fsg.svg?style=for-the-badge
 [license-url]: https://github.com/ofman/fsg/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png
-[debian.org]: https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
-[debian-url]: https://www.debian.org/distrib/
 [go.dev]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
 [go-url]: https://go.dev/
+[ipfs.tech]: https://img.shields.io/badge/IPFS-Inter_Planetary_File_System-blue
+[ipfs-url]: https://ipfs.tech/
+[debian.org]: https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
+[debian-url]: https://www.debian.org/distrib/
