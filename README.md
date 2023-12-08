@@ -84,14 +84,14 @@
 
 [![FileShareGo-cli Screen Shot][product-screenshot]](img/screenshot.png)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+There are many file sharing programs on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a program so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+* You shouldn't be doing the same tasks over and over like zipping/extracting or slicing files in parts just to send them
+* You should implement KISS principles to the rest of your life :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Of course, no one program will serve all projects since your needs may be different. So I'll be adding more in the near future (for example filesharego-gui). You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this program!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,11 +110,15 @@ Of course, no one template will serve all projects since your needs may be diffe
 <!-- GETTING STARTED -->
 ## Getting Started
 
+Only need 1 binary file "fsg" to run which can be quickly downloaded from releases section: https://github.com/ofman/fsg/releases/latest
+
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+
+
 * ubuntu/debian
   ```sh
   apt-get -y install wget
@@ -125,6 +129,9 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 
 1. Install git
+   ```sh
+   apt-get -y install git
+   ```
 2. Clone the repo
    ```sh
    git clone https://github.com/ofman/fsg.git
