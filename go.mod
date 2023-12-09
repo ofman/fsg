@@ -2,7 +2,7 @@ module github.com/ofman/fsg
 
 go 1.20
 
-require github.com/ofman/filesharego v0.0.0-20231209181254-6107228d8663
+require github.com/ofman/filesharego v0.0.0-20231209184155-0751d4813110
 
 require (
 	bazil.org/fuse v0.0.0-20200117225306-7b5117fecadc // indirect
