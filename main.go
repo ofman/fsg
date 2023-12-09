@@ -21,7 +21,7 @@ func main() {
 		if flagCid != "" {
 			filesharego.DownloadFromCid(flagCid)
 		} else if flagFilePath != "" {
-			filesharego.UploadFiles(flagFilePath)
+			filesharego.UploadFiles(flagFilePath, false)
 		}
 	} else {
 		fmt.Println("Use flags -f \"example.jpg\" or -c \"exampleCid\" to share files for example:\n./fsg -f \"example.jpg\"\nor to download files\n./fsg -c \"exampleCid\"")

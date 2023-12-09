@@ -2,10 +2,7 @@ module github.com/ofman/fsg
 
 go 1.20
 
-require (
-	github.com/ipfs/boxo v0.16.0
-	github.com/ofman/filesharego v0.0.0-20231208201846-d43777c43c14
-)
+require github.com/ofman/filesharego v0.0.0-20231209181254-6107228d8663
 
 require (
 	bazil.org/fuse v0.0.0-20200117225306-7b5117fecadc // indirect
@@ -57,6 +54,7 @@ require (
 	github.com/ipfs-shipyard/nopfs v0.0.12-0.20231027223058-cde3b5ba964c // indirect
 	github.com/ipfs-shipyard/nopfs/ipfs v0.13.2-0.20231027223058-cde3b5ba964c // indirect
 	github.com/ipfs/bbloom v0.0.4 // indirect
+	github.com/ipfs/boxo v0.16.0 // indirect
 	github.com/ipfs/go-bitfield v1.1.0 // indirect
 	github.com/ipfs/go-block-format v0.2.0 // indirect
 	github.com/ipfs/go-cid v0.4.1 // indirect
